@@ -14,3 +14,5 @@ The CPU consists of three main hardware modules:
 - [x] Complete ALU design
 - [ ] Implement Register File
 - [ ] Connect Control Unit to Datapath
+
+PLACEHOLDER STUFF FOR NOW JUST TESTING THE GITHUB  
