@@ -1,3 +1,5 @@
+a running log, one short entry per week: what got done, what's next
+
 # RISC-V Single-Cycle CPU Project
 
 This document tracks the main design decisions and progress for our CPU design.
@@ -16,3 +18,4 @@ The CPU consists of three main hardware modules:
 - [ ] Connect Control Unit to Datapath
 
 PLACEHOLDER STUFF FOR NOW JUST TESTING THE GITHUB  
+

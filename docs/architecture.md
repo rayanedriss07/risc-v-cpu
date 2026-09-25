@@ -1,0 +1,1 @@
+a description (and eventually a diagram) of how the CPU is structured, what the datapath looks like

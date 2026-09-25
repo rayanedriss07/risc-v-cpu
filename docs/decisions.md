@@ -1,0 +1,1 @@
+short entries explaining choices you made and why, e.g. "chose single-cycle over pipelined because X"
