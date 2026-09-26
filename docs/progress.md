@@ -18,4 +18,9 @@ The CPU consists of three main hardware modules:
 - [ ] Connect Control Unit to Datapath
 
 PLACEHOLDER STUFF FOR NOW JUST TESTING THE GITHUB  
+<<<<<<< HEAD
 hey man hyd
+=======
+
+djjdhqhjkfjhkhjkqhjkfhjejfhk3hjf3
+>>>>>>> 0420837ef47747105ede6981e1c3cf71cd76688e
